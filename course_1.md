@@ -104,3 +104,4 @@ Although you are using those tools extensively in your daily life, you still nee
 这个例子很有意思`google human resource`通过一系列措施来判断扁平化管理和有manager哪个更好.
 
 Quartile: split data points into four equal quartile.
+
