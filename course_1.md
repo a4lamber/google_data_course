@@ -64,16 +64,16 @@ Key questions help analysts test whether they have accomplished enough to move f
 
 ### Embracing your data analyst skills
 
-Some soft skills you need to be a good data analyst.
+Five essential aspects of analytical skills,
 
 - Curiosity 
 - Understand context 
 - A techanical mindset
-  - Break down an action into smaller steps
+  - Break down an action into smaller steps.
 - Data design
-  - How you organize information
+  - How you organize information.
 - Data strategy
-  - Management of the poeple, processes and tools used in data analysis.
+  - Management of the people, processes and tools used in data analysis.
 
 
 Although you are using those tools extensively in your daily life, you still need to fill in the necessary and specific skills for the job.
@@ -82,3 +82,25 @@ Although you are using those tools extensively in your daily life, you still nee
 ### Thinking about analytical thinking
 
 > Thinking is 2nd nature to us, but we rarely think about thinking.
+
+`Analytical thinking` has 5 elemments:
+- **visualization**: graphical visualization is better than
+- **strategy**:
+- **problem-oriented**: 
+- **correlation**: Rainy season correlates with umberla sales boost. But remember, correlation doesn't mean causation.
+- **big picture yet detail oriented**:
+
+> `Root cause`: the reason why a problem occurs. a common solution to find root cause is to ask yourself why 5 times.
+
+
+> `Gap analysis`: a method for examining and evaulating how a process works currently to get to where you want to be in the future.
+
+
+
+### Using data to drive successful outcomes
+
+`Data-driven decision-making`: using facts to guide business strategy.
+
+这个例子很有意思`google human resource`通过一系列措施来判断扁平化管理和有manager哪个更好.
+
+Quartile: split data points into four equal quartile.
