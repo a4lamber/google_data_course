@@ -5,7 +5,7 @@
 
 
 ### Transforming data into insights
-The 6 steps for data analysis process explained in this program is 
+The 6 steps for `data analysis process` explained in this program is and the courses are structured to do this,
 ```mermaid
 flowchart LR
     ask --> prepare
@@ -104,4 +104,91 @@ Although you are using those tools extensively in your daily life, you still nee
 这个例子很有意思`google human resource`通过一系列措施来判断扁平化管理和有manager哪个更好.
 
 Quartile: split data points into four equal quartile.
+
+## Week 3
+
+### Data life cycle
+
+The `data lifecycle` is shown in the flowchart below,
+```mermaid
+flowchart LR
+  plan --> capture
+  capture --> manage
+  manage --> analyze
+  analyze --> archive
+  archive --> destory
+```
+
+
+
+
+
+### Outlining the data analysis process
+
+This google data program is based upon the data analysis process discussed in week 1.
+
+> Stakeholders: People who have invested time and resources into a project and are interested in the outcome.
+
+After determining who the stakeholders' are, you need to ask questions to know their expectation. How to ask effective question to the stakeholder to know what they want is very important and often neglected. You need to find what they really want.
+
+
+
+#### Molly:Example of the data process
+
+Molly is really passionate about data and there are two take-aways:
+- Data cleansing is important since it's the time for you to learn the nuance of this paticular data which help you get insight later on during the analysis phase.
+- Don't skip steps. You would miss tons of information.
+
+
+
+
+#### Structuring ur data
+Simplest way to structure your data is by putting it in a table, for a table,
+- A table consists of rows and columns
+- Each row is a different observation
+- Each column is a different attribute of that observation
+
+For time series data stored in a structured table, it reminds me of eulerian view in fluid dynamics
+
+![Eulerian vs Lagrangian view](https://www.researchgate.net/profile/M_S_Shadloo/publication/303814951/figure/fig1/AS:369949299232768@1465214194259/Eulerian-and-Lagrangian-representation-of-fluid-flow-equations.png)
+
+In eulerian view analogy, You, as the stationary observer, is standing there and the data just flow through you. You simply observe them.
+
+
+
+
+### The data analyst tools
+
+#### Spreadsheets
+
+Spreadsheets:
+- Microsoft Excel
+- Google Sheet
+
+
+#### Databases and query languages
+
+> Database: a collection of structured data stored in a computer system.
+
+
+
+#### Visualizaion tools
+Data visualization:
+- `Tableau` drag-and-drop feature lets users create interactive graphs in dashboards and worksheets.
+- `Looker` communicates directly with a database, allowing you to connect your data right to the visual tool you choose.
+
+
+#### Self-reflection
+
+> Quesion1: What is the relationship between the data life cycle and the data analysis process? How are the two processes similar? How are they different?
+
+While the data analysis process will drive your projects and help you reach your business goals, you must understand the life cycle of your data in order to use that process. To analyze your data well, you need to have a thorough understanding of it. Similarly, you can collect all the data you want, but the data is only useful to you if you have a plan for analyzing it.
+
+> Quesion2: What is the relationship between the Ask phase of the data analysis process and the Plan phase of the data life cycle? How are they similar? How are they different?
+
+Great work reinforcing your learning with a thoughtful self-reflection! A good reflection on this topic would consider the phases that data goes through in its life cycle and how this impacts the data analysis process.
+
+While the data analysis process will drive your projects and help you reach your business goals, you must understand the life cycle of your data in order to use that process. To analyze your data well, you need to have a thorough understanding of it. Similarly, you can collect all the data you want, but the data is only useful to you if you have a plan for analyzing it.
+
+The Plan and Ask phases both involve planning and asking questions, but they tackle different subjects. The Ask phase in the data analysis process focuses on big-picture strategic thinking about business goals. However, the Plan phase focuses on the fundamentals of the project, such as what data you have access to, what data you need, and where you’re going to get it.
 
