@@ -193,3 +193,30 @@ While the data analysis process will drive your projects and help you reach your
 The Plan and Ask phases both involve planning and asking questions, but they tackle different subjects. The Ask phase in the data analysis process focuses on big-picture strategic thinking about business goals. However, the Plan phase focuses on the fundamentals of the project, such as what data you have access to, what data you need, and where you’re going to get it.
 
 ## Week 4
+
+### Mastering spreadsheet basics
+
+> attributes: (also called column name)
+
+> Observation: all of the attributes for somethng contained in a row of a data table.
+
+
+## References
+- [google sheets](https://support.google.com/a/users/answer/9282959?visit_id=637361702049227170-1815413770&rd=1)
+- [google-spreadsheet](https://support.google.com/a/users/answer/9300022)
+
+
+
+### SQL basics
+
+>query: request for data or information from database
+
+- [SQL basics](https://www.w3schools.com/sql/default.asp)
+- [SQL Cheat sheet](https://towardsdatascience.com/sql-cheat-sheet-776f8e3189fa)
+
+
+
+### Data visualization
+
+The best way for me is by determinging whether the data is for `categorical` or `numerical`. If you label the available data by catogory, you could use different graphs types for each combination. This is how you could pick your arsenal.
+
