@@ -254,6 +254,14 @@ Google HR who specifically hiring analytics suggests:
   - coffee chat and meet-up with other DS professionalist.
 - they sense whether you would be a good-fit for the team.
 
-Ted video
+### Extra reading
 
 [Anna Leach DA journey](https://www.youtube.com/watch?v=t2oOFs4WgI0)
+
+---
+## Course Wrap-up
+In this very first course, the key takeaway are:
+- The major steps in data analysis
+- The data life cycle
+- toolboxs required
+- fairness when u analyze to avoid bias as much as possible
