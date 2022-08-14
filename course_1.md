@@ -193,7 +193,7 @@ While the data analysis process will drive your projects and help you reach your
 The Plan and Ask phases both involve planning and asking questions, but they tackle different subjects. The Ask phase in the data analysis process focuses on big-picture strategic thinking about business goals. However, the Plan phase focuses on the fundamentals of the project, such as what data you have access to, what data you need, and where you’re going to get it.
 
 ## Week 4
-
+---
 ### Mastering spreadsheet basics
 
 > attributes: (also called column name)
@@ -220,3 +220,40 @@ The Plan and Ask phases both involve planning and asking questions, but they tac
 
 The best way for me is by determinging whether the data is for `categorical` or `numerical`. If you label the available data by catogory, you could use different graphs types for each combination. This is how you could pick your arsenal.
 
+
+
+## Week5
+---
+In this week, the outline is shown as following,
+- the role of a data analyst
+- business task for DA
+- fairness in analysis (avoiding bias)
+
+
+### DA job opportunities
+
+gives some information about where your skills would be applicable.
+
+
+### The importance of fair business decision
+
+Observation, intuition are powerful tools in decision-making, but they can only take us so far. When we make decisions based on just observation and gut feelings, we are only seeing part of the picture. **Data helps us see the whole picture**.
+
+> How to make sure your data is fair? `Fairness` means ensuring that your analysis does not create or reinforce bias.
+
+Sometimes, your data could be true but unfair.
+
+
+How could data help other people have a better life? Data are people and it has temperature.
+
+> `oversampling`: an under-represented group of passengers should be oversampled.
+
+Google HR who specifically hiring analytics suggests:
+- professional networling by:
+  - increase online footprint by updating linkIn and github where lots of your projects are there
+  - coffee chat and meet-up with other DS professionalist.
+- they sense whether you would be a good-fit for the team.
+
+Ted video
+
+[Anna Leach DA journey](https://www.youtube.com/watch?v=t2oOFs4WgI0)

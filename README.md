@@ -7,11 +7,11 @@ Progress tracker:
 - [x] course 1 week2 (8/11)
 - [x] course 1 week3 (8/12)
 - [x] course 1 week4 (8/13, Saturday) 
-- [ ] course 1 week5 (8/14)
-
+- [x] course 1 week5 (8/14)
+- [ ] course 1 project
 
 
 
 To-do list:
-- [ ] add week 4 glossory to Anki
-- [ ] review anki (8/14)
+- [x] add week 4 glossory to Anki
+- [x] review anki (8/14)
