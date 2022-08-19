@@ -95,6 +95,13 @@ Also fairness,
 
 ## Week2
 ---
+In week 2, you are going to learn
+- Difference between quantitive data and qualitive data
+- What's common metrics in other industry?
+  - ROI
+  - Customer retention rate
+- Data visualization by report and dashboard
+  - types of dashboard
 
 ### Understand the power of data
 
@@ -175,3 +182,11 @@ Types of dashboards:
 
 Some metrics: 
 - `Bed Occupancy Rate`: Total # inpatient days for a given period X 100/ (available beds X # of days in the period).
+
+## Week 3
+---
+
+### Working with spreadsheets
+
+[google sheet shortcuts](https://support.google.com/docs/answer/181110#zippy=%2Cmac-shortcuts)
+
