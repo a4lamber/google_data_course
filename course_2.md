@@ -190,3 +190,34 @@ Some metrics:
 
 [google sheet shortcuts](https://support.google.com/docs/answer/181110#zippy=%2Cmac-shortcuts)
 
+
+### Formulas in spreadsheets
+
+Some common errors encounters in google sheet
+```mermaid
+flowchart LR
+  block0("common errors in google sheet")
+  block1("#DIV/0!")
+  block2("#ERROR!")
+  block3("#N/A")
+  block4("NAME?")
+  block5("#NUM!")
+  block6("VALUE!")
+  block7("RED!")
+  block0 --> block1
+  block0 --> block2
+  block0 --> block3
+  block0 --> block4
+  block0 --> block5
+  block0 --> block6
+  block0 --> block7
+```
+
+### Functions in spreadsheets
+Some basic spreadsheets skills.
+- freeze is useful tho
+- filter view is useful
+- functions (preset command) and formula are useful
+
+### Save time with structured thinking
+
