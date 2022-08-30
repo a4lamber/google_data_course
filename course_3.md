@@ -50,3 +50,63 @@ Data models such as **Entity Relationship Diagram (ERD)** and **Unified Modeling
 https://dataedo.com/blog/basic-data-modeling-techniques
 
 ### Explore data types, fields, and values
+
+long data vs wide data.
+
+
+## Week 2
+---
+### Unbiased anb objective data
+
+> `Bias`: a preference in favor of or against a person or a group of ppl.
+
+> `Data bias`: a type of error that systematically skews results in a certain direction
+
+Types of data bias:
+- `Sampling bias`: a sample is not representative of the entire population
+- `Observer bias`: also called experimenter bias or research bias. It is defined as the tendency for different people to observe things differently
+- `Interpretation bias`: the tendency to always interpret ambiguous situations in a positive or negative way (different background or past experience)
+- `Confirmation bias`: the tendency to search for or interpret information in a way that confirms pre-existing beliefs (You see wut you want to see).
+
+
+### Explore data credibility 
+
+Process for identifying good data **ROCCC** :
+- reliable
+- original
+- comprehensive
+- Current (out-of-date)
+- Cited
+
+
+
+ ### Data ethics and privacy
+
+ > `Ethics`: Well-founded standards for right and wrong that prescribe what humans ought to do, usually in terms of rights, obligations, benefirs to society, fairness, or specific virtues.
+
+ > `Data ethics`: Well-founded standards of right and wrong that dictate how data is collected, shared and used.
+
+ > `Ownership`: individuals own the raw data they provide and they have primary control over its usage, how its processed and how its shared.
+
+ > `Transcation transparency`: all data-processing activities and algorithms should be completely explainable and understood by the individual who provides their data.
+
+ > `Currency`: individuals should be aware of financial transcations resulting from the use of their personal data and the scale of these transcations.
+
+ > `Openness`: Free access, usage and sharing of data.
+
+ > `Data anonymization`: removing personally identifiable information in AI.
+
+
+### Understanding open data
+
+Recall **openness**.
+
+
+> `Data interoperability`: the ability of data systems and services to openly connect and share data.
+
+Some useful resources:
+1. [U.S. goverment data site.](https://data.gov)
+2. [U.S. Census Bureau.](https://www.census.gov/data.html)
+3. [Open Data Network](https://www.opendatanetwork.com)
+4. [Google Cloud Public Datasets](https://cloud.google.com/datasets)
+5. [Dataset Search](https://datasetsearch.research.google.com)
