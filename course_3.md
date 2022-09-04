@@ -110,3 +110,52 @@ Some useful resources:
 3. [Open Data Network](https://www.opendatanetwork.com)
 4. [Google Cloud Public Datasets](https://cloud.google.com/datasets)
 5. [Dataset Search](https://datasetsearch.research.google.com)
+
+
+## Week 3
+---
+### Working with databases
+
+Some basic concept about `primary key` and `foreign key`.
+
+
+### Managing data with metadata
+
+In this section,
+- three types of metadatas
+- discuss what is metadata repository
+- Job position: metadata analyst
+
+Three types of metadata
+- `descriptive metadata`: Metadata that describes a piece of data and can be used to identify it at a later point in time. such as ISBN-number
+- `structural metadata`: Metadata that indicates how a piece of data is organized and whether it is part of one, or more than one, data collection (Table of contents).
+- `administrtive metadata`: Metadata that indicated the technical source of a digital asset.
+
+
+- Metadata creates a **single source of truth** by keeping things consistent and uniform.
+- Metadata helps to reduce data redundancy (multiple copy of the same source).
+- Metadata also makes data more reliable by making sure it's accurate, precise, relevant and timely.
+
+
+`Metadata repository` is a database that is designed to store metadata:
+    - describe the state and location of the metadata
+    - describe the structures of the tables inside
+    - describe how the data flows through the repository
+    - keep track of who accesses the metadata and when
+
+
+
+### Accessing different data sources
+In this section,
+
+
+Recall internal and external refer to data generated inside and outside of organization, respectively. 
+
+
+Some repository for health care providor:
+- https://www.who.int/data/gho 
+
+
+
+
+
